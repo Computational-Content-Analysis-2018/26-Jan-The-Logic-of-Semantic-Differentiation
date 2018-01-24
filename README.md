@@ -1,0 +1,2 @@
+# Comments on: The Logic of Semantic Differentiation
+[Osgood, Charles E., George J. Suci, Percy Tannenbaum. 1957. The Measurement of Meaning. Chapter 1 (“The Logic of Semantic Differentiation”):1-30.](('https://books.google.com.gi/books?id=Qj8GeUrKZdAC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=twopage&q&f=false',))
